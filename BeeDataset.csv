@@ -1,42 +1,42 @@
-Island,Island_Site,Areakm2,WildBeeAbundanceSt,HoneyBeePopulation2005_2015
-Delos,DelosDelos,3.4,118.266,0
-Folegandros,FolegandrosAg. Georgios,32.4,476.939,436.3636364
-Folegandros,FolegandrosChyta,32.4,276.671,436.3636364
-Folegandros,FolegandrosKatergo,32.4,228.694,436.3636364
-Anafi,AnafiHelicodrome,38.636,805.35,1078.090909
-Anafi,AnafiVagia,38.636,698.031,1078.090909
-Anafi,AnafiZoodohos Pigi,38.636,405.939,1078.090909
-Serifos,SerifosPanaghia,75.207,546.242,817.8181818
-Serifos,SerifosSklavogianni,75.207,504.034,817.8181818
-Serifos,SerifosMegalo Livadi,75.207,870.413,817.8181818
-Santorini,SantoriniAg. Fanourios Dune,76.19,398.686,772.1818182
-Santorini,SantoriniAkrotiri-Faros,76.19,542.152,772.1818182
-Santorini,SantoriniPanagia Kalou,76.19,300.917,772.1818182
-Santorini,SantoriniPyrgos,76.19,508.812,772.1818182
-Syros,SyrosHrousa,84.069,131.418,1265.909091
-Syros,SyrosKambos,84.069,75.788,1265.909091
-Syros,SyrosKomito,84.069,126.285,1265.909091
-Mykonos,MykonosElia,86.125,51.791,239.5454545
-Mykonos,MykonosOrnos,86.125,72.761,239.5454545
-Mykonos,MykonosPanormos,86.125,37.557,239.5454545
-Kythnos,KythnosAg. Sostis,99.432,572.817,2558.090909
-Kythnos,KythnosMerihas,99.432,359.31,2558.090909
-Kythnos,KythnosStratolatissa,99.432,388.782,2558.090909
-Ios,IosAg. Theodoti,108.713,303.389,3454.090909
-Ios,IosKambos,108.713,200.21,3454.090909
-Ios,IosMersinia,108.713,351.473,3454.090909
-Kea,KeaDihala Sklavou,131.693,307.091,3484.090909
-Kea,KeaMylopotamos,131.693,232.361,3484.090909
-Kea,KeaPoisses,131.693,365.96,3484.090909
-Milos,MilosAchivadolimni,151,103.349,1064.363636
-Milos,MilosFiropotamos,151,130.235,1064.363636
-Milos,MilosSarakiniko,151,89.985,1064.363636
-Tinos,TinosAgapi,194.59,331.178,2342.727273
-Tinos,TinosGiannaki,194.59,357.513,2342.727273
-Tinos,TinosKarya,194.59,352.328,2342.727273
-Tinos,TinosLaouti,194.59,275.112,2342.727273
-Tinos,TinosMarlas,194.59,328.4,2342.727273
-Paros,ParosA. Horio,196.308,70,2296.363636
-Paros,ParosAg. Ioannis,196.308,68.827,2296.363636
-Paros,ParosPetaloudes,196.308,66.465,2296.363636
-Paros,ParosKamari,196.308,70.192,2296.363636
+,Island,Island_Site,Areakm2,WildBeeAbundanceSt,HoneyBeePopulation2005_2015
+1,Delos,DelosDelos,3.4,118.266,0
+2,Folegandros,FolegandrosAg. Georgios,32.4,476.939,436.3636364
+3,Folegandros,FolegandrosChyta,32.4,276.671,436.3636364
+4,Folegandros,FolegandrosKatergo,32.4,228.694,436.3636364
+5,Anafi,AnafiHelicodrome,38.636,805.35,1078.090909
+6,Anafi,AnafiVagia,38.636,698.031,1078.090909
+7,Anafi,AnafiZoodohos Pigi,38.636,405.939,1078.090909
+8,Serifos,SerifosPanaghia,75.207,546.242,817.8181818
+9,Serifos,SerifosSklavogianni,75.207,504.034,817.8181818
+10,Serifos,SerifosMegalo Livadi,75.207,870.413,817.8181818
+11,Santorini,SantoriniAg. Fanourios Dune,76.19,398.686,772.1818182
+12,Santorini,SantoriniAkrotiri-Faros,76.19,542.152,772.1818182
+13,Santorini,SantoriniPanagia Kalou,76.19,300.917,772.1818182
+14,Santorini,SantoriniPyrgos,76.19,508.812,772.1818182
+15,Syros,SyrosHrousa,84.069,131.418,1265.909091
+16,Syros,SyrosKambos,84.069,75.788,1265.909091
+17,Syros,SyrosKomito,84.069,126.285,1265.909091
+18,Mykonos,MykonosElia,86.125,51.791,239.5454545
+19,Mykonos,MykonosOrnos,86.125,72.761,239.5454545
+20,Mykonos,MykonosPanormos,86.125,37.557,239.5454545
+21,Kythnos,KythnosAg. Sostis,99.432,572.817,2558.090909
+22,Kythnos,KythnosMerihas,99.432,359.31,2558.090909
+23,Kythnos,KythnosStratolatissa,99.432,388.782,2558.090909
+24,Ios,IosAg. Theodoti,108.713,303.389,3454.090909
+25,Ios,IosKambos,108.713,200.21,3454.090909
+26,Ios,IosMersinia,108.713,351.473,3454.090909
+27,Kea,KeaDihala Sklavou,131.693,307.091,3484.090909
+28,Kea,KeaMylopotamos,131.693,232.361,3484.090909
+29,Kea,KeaPoisses,131.693,365.96,3484.090909
+30,Milos,MilosAchivadolimni,151,103.349,1064.363636
+31,Milos,MilosFiropotamos,151,130.235,1064.363636
+32,Milos,MilosSarakiniko,151,89.985,1064.363636
+33,Tinos,TinosAgapi,194.59,331.178,2342.727273
+34,Tinos,TinosGiannaki,194.59,357.513,2342.727273
+35,Tinos,TinosKarya,194.59,352.328,2342.727273
+36,Tinos,TinosLaouti,194.59,275.112,2342.727273
+37,Tinos,TinosMarlas,194.59,328.4,2342.727273
+38,Paros,ParosA. Horio,196.308,70,2296.363636
+39,Paros,ParosAg. Ioannis,196.308,68.827,2296.363636
+40,Paros,ParosPetaloudes,196.308,66.465,2296.363636
+41,Paros,ParosKamari,196.308,70.192,2296.363636
